@@ -1,6 +1,8 @@
 # Hello
 I start learning deep learning with [TensorFlow](https://www.tensorflow.org/).
 
+[What is Gradient](http://tupleblog.github.io/gradient-descent-part1/)
+
 ### Env
   - Python 2.7
 
