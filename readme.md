@@ -15,4 +15,6 @@ You should learn below step by step
   - Learning Rate, Momentum, Hidden Layer `http://pantip.com/topic/32994577`
 
 ### Installation
-  - [How to install Caffe on OS X](https://gist.github.com/kylemcdonald/0698c7749e483cd43a0e)
+  - How to install Caffe on OS X
+    - http://caffe.berkeleyvision.org/install_osx.html
+    - https://gist.github.com/kylemcdonald/0698c7749e483cd43a0e
