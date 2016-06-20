@@ -1,0 +1,7 @@
+https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html
+
+รูปแต่ละรูปมีขนาด 28x28 pixel
+แปลงรูปเป็น array ขนาด 784
+
+
+`mnist.train.images` มี 55000 รูป

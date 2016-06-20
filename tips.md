@@ -17,3 +17,4 @@ pip uninstall protobuf
 pip uninstall tensorflow
 brew uninstall protobuf
 ```
+[Source](http://stackoverflow.com/questions/33622842/error-in-python-after-import-tensorflow-typeerror-init-got-an-unexpect)
